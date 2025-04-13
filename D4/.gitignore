@@ -1,0 +1,62 @@
+# ▶️ macOS 시스템 관련
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# ▶️ macOS metadata 폴더
+.Spotlight-V100
+.Trashes
+
+# ▶️ macOS 파인더 설정
+*.swp
+.fseventsd
+.DS_Store
+
+# ▶️ VSCode 사용자일 경우
+.vscode/
+
+# ▶️ PyCharm 등 JetBrains 계열
+.idea/
+
+# ▶️ Python 관련
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+
+# ▶️ 가상환경
+venv/
+ENV/
+env/
+.venv/
+
+# ▶️ 로그 파일
+*.log
+
+# ▶️ Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# ▶️ 테스트 출력/커버리지
+.coverage
+coverage.xml
+htmlcov/
+
+# ▶️ 컴파일 파일
+*.out
+*.o
+*.class
+*.exe
+
+# ▶️ 백업 파일
+*~
+*.bak
+
+# ▶️ 기타 IDE/툴 임시파일
+*.sublime-workspace
+*.sublime-project
+*.iml
+*.tmp
